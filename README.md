@@ -1,5 +1,5 @@
 # P-ginas_-personal_-Carlos-Stiven-Cabarte-Cariban-
-# 👨‍💼 Presentación Personal
+
 
 ## Carlos Stiven Cabarte Cariban
 
@@ -11,7 +11,7 @@ Me caracterizo por ser **responsable**, **comprometido** y con una gran disposic
 
 ---
 
-## 🎯 Objetivos Profesionales
+## Objetivos Profesionales
 
 - Desarrollar competencias técnicas en **programación**, **análisis** y **gestión de proyectos tecnológicos**.  
 - Contribuir con **soluciones digitales** que beneficien a comunidades educativas y sociales.  
@@ -19,7 +19,7 @@ Me caracterizo por ser **responsable**, **comprometido** y con una gran disposic
 
 ---
 
-## 💻 Intereses y Habilidades
+##  Intereses y Habilidades
 
 - **Programación y desarrollo de software**.  
 - **Metodologías ágiles** y **gestión de proyectos**.  
@@ -28,7 +28,7 @@ Me caracterizo por ser **responsable**, **comprometido** y con una gran disposic
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 - **Correo electrónico:** cabartecaribancarlosstiven82@gmail.com  
 - **Ubicación:** Barranco Minas, Guainía – Colombia  
