@@ -33,5 +33,5 @@ Me caracterizo por ser **responsable**, **comprometido** y con una gran disposic
 - **Correo electrónico:** cabartecaribancarlosstiven82@gmail.com  
 - **Ubicación:** Barranco Minas, Guainía – Colombia  
 
----
+## Aprendizaje del curso 
 
