@@ -26,8 +26,6 @@ Me caracterizo por ser **responsable**, **comprometido** y con una gran disposic
 - **Innovación tecnológica aplicada a la educación**.  
 - **Trabajo colaborativo** y **aprendizaje constante**.  
 
----
-
 ## Contacto
 
 - **Correo electrónico:** cabartecaribancarlosstiven82@gmail.com  
